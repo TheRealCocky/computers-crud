@@ -30,7 +30,7 @@ Ideal para estudos com .NET 8, Web API e Entity Framework Core.
 |------------------------|-----------------------------------|
 | `ASP.NET Core 8`       | Backend Web API                   |
 | `Entity Framework Core`| ORM para acesso a dados           |
-| `SQLite / SQL Server`  | Banco de dados relacional         |
+| `PostgesSQL`  | Banco de dados relacional         |
 | `Swagger`              | Interface visual para testar APIs |
 
 ---
